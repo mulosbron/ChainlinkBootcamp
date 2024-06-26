@@ -1,0 +1,85 @@
+{
+	"compiler": {
+		"version": "0.8.19+commit.7dd6d404"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "test1",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "test2",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "yeniSayi1",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Chainlink Bootcamp 2024/Day 7/Memory.sol": "Memory"
+		},
+		"evmVersion": "paris",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Chainlink Bootcamp 2024/Day 7/Memory.sol": {
+			"keccak256": "0x67eba065dd416aa9fff47e8afcafd0c478d38ee74126cb81fdecc2663c8ad74a",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://47151e4073e7b1b0e46a47eabeb4e633aa506d50eae3e26a5b11c1f1a9f9916a",
+				"dweb:/ipfs/Qmam7BqbPtUJaXoZy7qjzakfBPJB22zXPpLeK7VZAasM7n"
+			]
+		}
+	},
+	"version": 1
+}

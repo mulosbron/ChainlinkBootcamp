@@ -1,0 +1,72 @@
+{
+	"compiler": {
+		"version": "0.8.19+commit.7dd6d404"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "getMessage",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [
+					{
+						"internalType": "string",
+						"name": "yeniMesaj",
+						"type": "string"
+					}
+				],
+				"name": "setMessage",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Chainlink Bootcamp 2024/Day 2/Register.sol": "Register"
+		},
+		"evmVersion": "paris",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Chainlink Bootcamp 2024/Day 2/Register.sol": {
+			"keccak256": "0x0a26cef460e11b988b93c3b816792ab4a837d303d17294465c4e0fe75f94e9e5",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://c3ac9e16342ccf17b6769579762693c678eb47f429d96b74f1fcd33dbeed2967",
+				"dweb:/ipfs/QmXaty48zwYtVbXQxuRk9TZ2JDXZSkvTQxxYzM735MPvse"
+			]
+		}
+	},
+	"version": 1
+}
